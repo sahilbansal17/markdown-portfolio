@@ -1,0 +1,3 @@
+- _Coding in **C++** from past 2 years!_
+- _Learning **Python**_
+- _Astonished by **functional programming**_
