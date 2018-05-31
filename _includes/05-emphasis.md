@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _Coding in **C++** from past 2 years!_
+- _Learning **Python**_
+- _Astonished by **functional programming**_
