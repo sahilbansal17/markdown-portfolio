@@ -1,0 +1,7 @@
+- [Competitive Coding](https://github.com/sahilbansal17/Competitive_Coding)
+- [FB-Spider](https://github.com/sahilbansal17/FB-Spider)
+- [Customer Waiting Time Simulator](https://github.com/sahilbansal17/CSL106-Assignments/tree/master/Assignment%204)
+- [3D/2D Colliding Balls Screensaver](https://github.com/sahilbansal17/Screensaver-Colliding-Balls)
+- [AC Circuit Solver](https://github.com/sahilbansal17/AC_Circuit_Solver)
+- [ARM Simulator](https://github.com/sahilbansal17/CSL216-Assignments/tree/master/A5)
+- [BigInt Package in SML](https://github.com/sahilbansal17/CSL226-Assignments/tree/master/A1)
