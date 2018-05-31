@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Pic](https://github.com/sahilbansal17/sahilbansal17.github.io/blob/master/images/myPic.jpg)
